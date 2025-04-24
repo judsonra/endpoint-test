@@ -1,0 +1,17 @@
+{
+    "name": "https-monitor",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "axios": "^1.8.4",
+        "dotenv": "^16.5.0",
+        "express": "^4.21.2"
+    },
+    "description": "npm init -y npm install axios express node app.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
